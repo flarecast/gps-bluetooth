@@ -36,6 +36,16 @@ hs_err_pid*
 .idea/gradle.xml
 .idea/libraries
 
+### Gradle template
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
 
